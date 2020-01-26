@@ -1,0 +1,24 @@
+{
+    "name": "opoink/db",
+    "description": "Opoink DB is a package that connect opoink application to database",
+    "keywords": ["opoink", "database", "opoink db", "opoink database"],
+    "homepage": "https://github.com/opoink/db",
+    "license": "MIT",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+           "Of\\Db": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.1.0",
+    },
+    "authors": [
+        {
+            "name": "Ron Rome Perez",
+            "email": "ron@opoink.com",
+            "homepage": "https://www.opoink.com",
+            "role": "Founder"
+        }
+    ]
+}
