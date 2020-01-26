@@ -5,6 +5,7 @@
     "homepage": "https://github.com/opoink/db",
     "license": "MIT",
     "type": "library",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
            "Of\\Db\\": "src/"
